@@ -11,11 +11,10 @@
 ------
 You Want Ask About All My Tools Add Me On :
 ```
-[+] Email : contact@ramdani.io
-[+] facebook : https://www.facebook.com/dannsdb/
-[+] Twitter : @dannsdb
 [+] Telegram : @dannsdb
 [+] Instagram : @dannsdb
+[+] Email : contact@ramdani.io
+[+] facebook : https://www.facebook.com/dannsdb/
 ```
 
 <br>©2021 Muhamad Ramdani
