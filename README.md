@@ -1,16 +1,7 @@
-# 👋 Hello! I'm Muhamad Ramdani known as Dannsdb
-
-Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
-
-
-```
-           _
-       .__(.)< (MEOW)
-        \___)   
-~~~~~~~~~~~~~~~~~~
-```
-
-## Connect with me
+<h3 align="center">
+  Welcome to Muhamad Ramdani profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/c/UC8vlzHia1cSRv6Arg_2SOMA?sub_confirmation=1">
@@ -19,14 +10,27 @@ Remember, open source is not commercial software development. The projects I sha
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UC8vlzHia1cSRv6Arg_2SOMA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dannsdb"/>
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dannsdb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/dannsdb-profile-views"/>
 </p>
 
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/dannsdb/)
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/YOUTUBE-red?logo=youtube&logoColor=white&style=for-the-badge" />](https://www.youtube.com/dannsdb)
-[<img align="left" alt="telegram" src="https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&logoColor=white&style=for-the-badge" />](https://t.me/dannsdb)
-<br/>
-<br/>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/dannsdb"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/dannsdb"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/itsramm"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+</p>
+
+
+Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
+
+```
+           _
+       .__(.)< (MEOW)
+        \___)   
+~~~~~~~~~~~~~~~~~~
+```
+
 <!---
 dannsdb/dannsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
