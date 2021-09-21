@@ -25,10 +25,12 @@
 Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
 
 ```
-           _
-       .__(.)< (MEOW)
-        \___)   
-~~~~~~~~~~~~~~~~~~
+  ____                            _ _
+ |  _ \  __ _ _ __  _ __  ___  __| | |__
+ | | | |/ _` | '_ \| '_ \/ __|/ _` | '_ \
+ | |_| | (_| | | | | | | \__ \ (_| | |_) |
+ |____/ \__,_|_| |_|_| |_|___/\__,_|_.__/
+ 
 ```
 
 <!---
