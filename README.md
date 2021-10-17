@@ -1,15 +1,15 @@
 <h3 align="center">
   Welcome to Muhamad Ramdani profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://cdn.dannsdb.id/upload/images/github-icon-gif/hvRJCLFzcasrR4ia7z.webp" width="28">
 </h3>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/dannsdb"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/c/dannsdb"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.dannsdb.id/upload/images/github-icon/64x64/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/dannsdb"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/dannsdb"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.dannsdb.id/upload/images/github-icon/64x64/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/itsramm"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/itsramm"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn.dannsdb.id/upload/images/github-icon/64x64/PpLeD3K.png"/></a>
 </p>
 
 <p align="center">
