@@ -33,7 +33,7 @@ Remember, open source is not commercial software development. The projects I sha
  
 ```
 
-Contact me : hallo@dannsdb.id
+Contact me : halo@dannsdb.id
 
 ## Support
 
