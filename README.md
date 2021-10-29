@@ -37,7 +37,7 @@ Contact me : halo@dannsdb.id
 
 ## Support
 
-[![Support via PayPal](https://cdn.dannsdb.id/upload/paypal-github-button/1.0.0/dist/button.svg)](https://dannsdb.live/tip)
+[![Support via PayPal](https://cdn.dannsdb.id/upload/paypal-github-button/1.0.0/dist/button.svg)](https://bit.ly/3mwEfJT)
 
 <!---
 dannsdb/dannsdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
