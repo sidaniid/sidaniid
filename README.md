@@ -24,7 +24,7 @@
 
 Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
 
-Contact me : halo@dannsdb.id
+Contact me : halo@sidani.id
 
 ## Support
 
