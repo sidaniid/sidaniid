@@ -1,5 +1,3 @@
-<p align="center" style="margin:0">Hi there <img src="https://cdn.anatanime.com/upload/images/github-icon-gif/hvRJCLFzcasrR4ia7z.webp" width="28">, welcome!</i></p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/dannsdb"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.anatanime.com/upload/images/github-icon/64x64/qiXu7b2.png"/></a>
