@@ -1,7 +1,4 @@
-<h3 align="center">
-  Welcome to Muhamad Ramdani profile!
-  <img src="https://cdn.anatanime.com/upload/images/github-icon-gif/hvRJCLFzcasrR4ia7z.webp" width="28">
-</h3>
+<p align="center" style="margin:0">Hi there <img src="https://cdn.anatanime.com/upload/images/github-icon-gif/hvRJCLFzcasrR4ia7z.webp" width="28">, welcome!</i></p>
 
 <!-- Social icons section -->
 <p align="center">
