@@ -19,8 +19,6 @@
 
 Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
 
-Say hi: hi@sidani.id
-
 ## Support
 
 [![Support via PayPal](https://cdn.anatanime.com/upload/paypal-github-button/1.0.0/dist/button.svg)](https://bit.ly/3mwEfJT)
